@@ -1,38 +1,7 @@
-## Welcome to GitHub Pages
-<iframe src="https://calendar.google.com/calendar/embed?src=c_82rp7pmkrrodcmj2ubaabn9vbg%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+## 
 
-You can use the [editor on GitHub](https://github.com/RockstarXDSC/RockstarXDSC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Schedule
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FNew_York&mode=AGENDA&title=ROCKSTAR%20x%20DSC%20DATATHON%20SCHEDULE&src=Y184MnJwN3Bta3Jyb2RjbWoydWJhYWJuOXZiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border-width:0" width="530" height="600" frameborder="0" scrolling="no"></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RockstarXDSC/RockstarXDSC.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Resources
+### Recordings 
