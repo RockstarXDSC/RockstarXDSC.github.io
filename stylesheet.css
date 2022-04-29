@@ -1,6 +1,27 @@
-#home, #about, #challenges, #schedule, #faq, #sponsors #resources{
-    padding-top: 30%;
+#home, #about, #challenges, #schedule, #faq, #sponsors{
+    padding-top: 10%;
+    background-color: rgba(255, 255, 255);
+    padding: 5%;
+    border-radius: 25px;
 }
 body {
-    padding-top: 70px
+    padding-top: 70px;
+    background-image: url("RSTAR.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
+#resources{
+    padding-top: 20%;
+    background-color: rgba(255, 255, 255);
+    padding: 5%;
+    border-radius: 25px;
+}
+#nav {
+    background-color: black;
+    opacity: .7;
+}
+@media only screen and (max-width: 1080px) {
+    #home, #about, #challenges, #schedule, #faq, #sponsors #resources{
+        padding-top: 40%;
+    }
+  }
