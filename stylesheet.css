@@ -24,4 +24,10 @@ body {
     #home, #about, #challenges, #schedule, #faq, #sponsors #resources{
         padding-top: 40%;
     }
+    body {
+    padding-top: 70px;
+    background-image: url("RSTAR.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
   }
